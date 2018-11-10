@@ -4,6 +4,6 @@ maven { url 'https://jitpack.io' }
 
 implementation 'com.github.joelnah:HelloNah:1.0'
 
-manifast
+서비스생성
 
-<service android:name="nah.prayer.hellonah.HelloNahService">
+메니페스트에 서비스 등록
